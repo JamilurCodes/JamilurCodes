@@ -1,32 +1,94 @@
-<p align="center">
-  <img src="./banner.png" alt="JamilurCodes Banner" width="100%">
-</p>
-<h1 align="center">Hi 👋, I'm Jamilur Rahman Dilwar</h1>
-<h3 align="center">Aspiring Front-End Developer</h3>
+# 👋 Hi, I'm Jamilur Rahman Dilwar
+
+### Front-End Developer in Training
+
+I build responsive, user-friendly web interfaces and improve my development skills through hands-on projects.
+
+---
 
 ## 👨‍💻 About Me
 
-I'm an aspiring Front-End Developer from Sylhet, Bangladesh, currently focused on building a strong foundation in modern web development.
+- 🌱 Currently focusing on **JavaScript and React**
+- 💻 Building responsive and user-friendly web applications
+- 🧩 Improving my problem-solving skills through practical projects
+- 🎨 Interested in modern UI development and responsive web design
+- 📚 Continuously learning and improving my front-end development skills
 
-I enjoy learning by building projects and improving my problem-solving skills through practice. I'm currently focusing on JavaScript and React.js, with the goal of becoming a skilled Front-End Developer and building responsive, user-friendly web applications.
+---
 
-- 🔭 I’m currently working on **Learning React.js / JavaScript and building web projects**
+## 🛠️ Front-End Tech Stack
 
-- 🌱 I’m currently learning **React.js and improving my JavaScript skills**
+### Core Technologies
 
-- 👨‍💻 All of my projects are available at [https://github.com/JamilurCodes](https://github.com/JamilurCodes)
-
-- 📫 How to reach me **dilwar.jamilur1998@gmail.com**
-
-<h3 align="left">Connect with me:https://github.com/JamilurCodes</h3>
-<p align="left">
+<p>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Styling
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamilurcodes&show_icons=true&locale=en&layout=compact" alt="jamilurcodes" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jamilurcodes&show_icons=true&locale=en" alt="jamilurcodes" /></p>
+### Development Tools
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamilurcodes&" alt="jamilurcodes" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code" />
+</p>
+
+### Currently Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+> Add your strongest projects here. Prioritize projects with a live demo and a clean README.
+
+### Project Name
+
+Short description of what the project does and what problem it solves.
+
+**Tech:** HTML • CSS • JavaScript • React
+
+🔗 [Live Demo](#) · 📂 [Source Code](#)
+
+---
+
+### Project Name
+
+Short description of the project.
+
+**Tech:** HTML • CSS • JavaScript
+
+🔗 [Live Demo](#) · 📂 [Source Code](#)
+
+---
+
+### Project Name
+
+Short description of the project.
+
+**Tech:** React • JavaScript • API
+
+🔗 [Live Demo](#) · 📂 [Source Code](#)
+
+---
+
+## 📫 Connect With Me
+
+- 💼 GitHub: [JamilurCodes](https://github.com/JamilurCodes)
+- 📧 Email: dilwar.jamilur1998@gmail.com
+
+---
+
+### 🎯 Current Goal
+
+Become a professional Front-End Developer by building real-world projects and continuously improving my JavaScript and React skills.
