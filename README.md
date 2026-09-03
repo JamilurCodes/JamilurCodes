@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.png" alt="JamilurCodes Banner" width="100%">
+</p>
 # 👋 Hi, I'm Jamilur Rahman Dilwar
 
 ### Front-End Developer in Training
