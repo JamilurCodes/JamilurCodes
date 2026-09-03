@@ -3,10 +3,9 @@
 </p>
 # 👋 Hi, I'm Jamilur Rahman Dilwar
 
-### Front-End Developer in Training
+### Front-End Developer | JavaScript • React
 
-I build responsive, user-friendly web interfaces and improve my development skills through hands-on projects.
-
+I build responsive, user-friendly web applications and improve my skills through hands-on projects.
 ---
 
 ## 👨‍💻 About Me
