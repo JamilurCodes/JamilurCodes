@@ -4,15 +4,21 @@
 <h1 align="center">Hi 👋, I'm Jamilur Rahman Dilwar</h1>
 <h3 align="center">Aspiring Front-End Developer</h3>
 
+## 👨‍💻 About Me
+
+I'm an aspiring Front-End Developer from Sylhet, Bangladesh, currently focused on building a strong foundation in modern web development.
+
+I enjoy learning by building projects and improving my problem-solving skills through practice. I'm currently focusing on JavaScript and React.js, with the goal of becoming a skilled Front-End Developer and building responsive, user-friendly web applications.
+
 - 🔭 I’m currently working on **Learning React.js / JavaScript and building web projects**
 
-- 🌱 I’m currently learning **HTML5, CSS3, JavaScript, React, Bootstrap, Git, GitHub**
+- 🌱 I’m currently learning **React.js and improving my JavaScript skills**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JamilurCodes](https://github.com/JamilurCodes)
 
 - 📫 How to reach me **dilwar.jamilur1998@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:https://github.com/JamilurCodes</h3>
 <p align="left">
 </p>
 
