@@ -1,0 +1,51 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="55%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#172554"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <circle cx="1050" cy="55" r="130" fill="#2563eb" opacity=".10"/>
+  <circle cx="1120" cy="245" r="170" fill="#06b6d4" opacity=".08"/>
+  <path d="M0 245 C220 180 350 285 560 220 S900 125 1200 185" fill="none" stroke="url(#accent)" stroke-width="2" opacity=".35"/>
+
+  <g transform="translate(72 68)">
+    <rect width="76" height="76" rx="18" fill="#0f172a" stroke="#334155"/>
+    <path d="M24 25 L52 38 L24 51 Z" fill="#22d3ee"/>
+    <path d="M54 25 L54 51" stroke="#818cf8" stroke-width="7" stroke-linecap="round"/>
+  </g>
+
+  <text x="170" y="108" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="42" font-weight="700">
+    JamilurCodes
+  </text>
+  <text x="170" y="148" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21">
+    Full-Stack Web Developer in Progress
+  </text>
+  <text x="170" y="188" fill="#94a3b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">
+    Learning • Building • Improving • Shipping
+  </text>
+
+  <g transform="translate(170 218)">
+    <rect width="92" height="30" rx="15" fill="#0f172a" stroke="#334155"/>
+    <text x="46" y="20" text-anchor="middle" fill="#67e8f9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">JavaScript</text>
+    <rect x="102" width="70" height="30" rx="15" fill="#0f172a" stroke="#334155"/>
+    <text x="137" y="20" text-anchor="middle" fill="#c4b5fd" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">React</text>
+    <rect x="182" width="78" height="30" rx="15" fill="#0f172a" stroke="#334155"/>
+    <text x="221" y="20" text-anchor="middle" fill="#e2e8f0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">Next.js</text>
+  </g>
+
+  <text x="1090" y="270" text-anchor="end" fill="#64748b" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">
+    BUILDING TOWARD FULL-STACK
+  </text>
+</svg>
